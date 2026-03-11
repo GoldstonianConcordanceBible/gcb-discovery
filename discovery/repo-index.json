@@ -1,0 +1,24 @@
+{
+  "repositories": [
+    {
+      "name": "canonical-index",
+      "purpose": "Canonical identity registry for the GCB ecosystem"
+    },
+    {
+      "name": "gcb-authority-endpoint",
+      "purpose": "Machine-readable authority endpoint"
+    },
+    {
+      "name": "gcb-knowledge-graph-dataset",
+      "purpose": "Dataset exports for the scripture knowledge graph"
+    },
+    {
+      "name": "gcb-ontology",
+      "purpose": "Formal semantic ontology of the GCB ecosystem"
+    },
+    {
+      "name": "gcb-agents",
+      "purpose": "AI agent behavior and interaction specifications"
+    }
+  ]
+}
