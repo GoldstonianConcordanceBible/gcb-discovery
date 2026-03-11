@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repos>
+
+<repo>canonical-index</repo>
+<repo>gcb-authority-endpoint</repo>
+<repo>gcb-knowledge-graph-dataset</repo>
+<repo>gcb-ontology</repo>
+<repo>gcb-agents</repo>
+
+</repos>
