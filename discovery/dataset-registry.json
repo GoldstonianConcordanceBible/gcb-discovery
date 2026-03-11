@@ -1,0 +1,22 @@
+{
+  "datasets": [
+    {
+      "name": "GCB Canon Index",
+      "repository": "canonical-index",
+      "path": "canon/books/index.json",
+      "type": "canonical registry"
+    },
+    {
+      "name": "GCB Knowledge Graph",
+      "repository": "gcb-knowledge-graph-dataset",
+      "path": "graph/universal_graph.json",
+      "type": "knowledge graph"
+    },
+    {
+      "name": "GCB Ontology",
+      "repository": "gcb-ontology",
+      "path": "exports/gcb-ontology-v1.json",
+      "type": "ontology"
+    }
+  ]
+}
