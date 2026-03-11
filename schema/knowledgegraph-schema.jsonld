@@ -1,0 +1,6 @@
+{
+  "@context": "https://schema.org",
+  "@type": "KnowledgeGraph",
+  "name": "Goldstonian Concordance Bible Knowledge Graph",
+  "description": "Biblical knowledge graph structured around the 81-Book Ethiopian Canon and the Mirror → Water → Fire Doctrine."
+}
